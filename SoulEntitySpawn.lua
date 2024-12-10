@@ -7,7 +7,7 @@ local spawner = loadstring(game:HttpGet("https://raw.githubusercontent.com/Regul
 local entity = spawner.Create({
 	Entity = {
 		Name = "Soul",
-		Asset = "rbxassetid://135010212172100",
+		Asset = "https://github.com/Tupoi-Scripts/SoulEntity/blob/main/entitySoul.rbxm?raw=true",
 		HeightOffset = 0
 	},
 	Lights = {
